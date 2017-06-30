@@ -1,0 +1,18 @@
+<resources>
+    <string-array name="TODO">
+        <item>添加功能：添加搜索功能</item>
+        <item>添加功能：点击时指向新的activity</item>
+        <item>优化界面：点击时的整体效果</item>
+        <item>添加功能：自动拷贝到剪切板about</item>
+        <item>添加功能：根据点击的进行前后排序?如何实现？</item>
+        <item>添加功能：换肤</item>
+        <item>添加功能：删除已保留的明文密码，给出理由</item>
+        <item>添加功能：升级功能</item>
+        <item>添加功能：应用增量升级功能等等</item>
+        <item>添加功能：最近使用、查看</item>
+        <item>添加功能：FloatingActionButton参考path效果</item>
+        <item>添加功能：添加动画切换效果</item>
+        <item>添加功能：实时刷新当前wifi</item>
+        <item>添加about</item>
+    </string-array>
+</resources>

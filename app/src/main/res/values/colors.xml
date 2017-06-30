@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34495e</color><!--8b93b3--><!--426a8b 深蓝色-->
+    <color name="colorPrimaryDark">#2c3e50</color><!--767d98--><!--315a7b 深蓝色-->
+    <color name="colorAccent">#c66b84</color><!--b5d2f0--><!--c66b84 深粉红-->
+
+    <color name="color_blue_org_primary">#3F51B5</color>
+    <color name="color_blue_org_primary_dark">#303F9F</color>
+    <color name="color_blue_org_accent">#FF4081</color>
+
+    <color name="color_blue_official_normal">#426a8b</color>
+    <color name="color_blue_official_pressed">#315a7b</color>
+    <color name="color_pink_official_0">#f77384</color>
+    <color name="color_pink_official_1">#c66b84</color>
+    <color name="color_pink_official_2">#6b5a7b</color>
+
+    <!--theme colors-->
+    <color name="color_green_turquoise_normal">#1ABC9C</color>
+    <color name="color_green_turquoise_pressed">#16A085</color>
+
+    <color name="color_green_emerland_normal">#2ECC71</color>
+    <color name="color_green_emerland_pressed">#27AE60</color>
+
+    <color name="color_blue_river_normal">#3498DB</color>
+    <color name="color_blue_river_pressed">#2980b9</color>
+
+    <color name="color_purple_amethyst_normal">#9b59b6</color>
+    <color name="color_purple_amethyst_pressed">#8e44ad</color>
+
+    <color name="color_gray_midnight_normal">#34495e</color>
+    <color name="color_gray_midnight_pressed">#2c3e50</color>
+
+    <color name="color_yellow_orange_normal">#f1c40f</color>
+    <color name="color_yellow_orange_pressed">#f39c12</color>
+
+    <color name="color_yellow_carrot_normal">#e67e22</color>
+    <color name="color_yellow_carrot_pressed">#d35400</color>
+
+    <color name="color_red_alizarin_normal">#e74c3c</color>
+    <color name="color_red_alizarin_pressed">#c0392b</color>
+
+    <color name="color_gray_silver_normal">#ecf0f1</color>
+    <color name="color_gray_silver_pressed">#bdc3c7</color>
+
+    <color name="color_gray_concrete_normal">#95a5a6</color>
+    <color name="color_gray_concrete_pressed">#7f8c8d</color>
+
+    <color name="color_white_normal">#fafafa</color>
+    <color name="color_white_pressed">#f2f3f4</color>
+
+    <color name="color_gray_divider">#cccccc</color>
+
+
+</resources>

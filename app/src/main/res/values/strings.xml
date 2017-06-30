@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WiFi Assistant</string>
+    
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="prefix_ssid">Hotspot</string>
+    <string name="prefix_psk">Password</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/height_view_network"
+    android:background="@drawable/bg_white"
+    android:paddingLeft="@dimen/item_horizontal_margin"
+    android:paddingRight="@dimen/item_horizontal_margin">
+
+    <RelativeLayout
+        android:id="@+id/titles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:minWidth="@dimen/height_view_network_title_min_width">
+
+        <TextView
+            android:id="@+id/ssid_title"
+            style="@style/view_network_textview_ssid"
+            android:layout_centerHorizontal="true"
+            android:text="@string/prefix_ssid"/>
+
+        <TextView
+            android:id="@+id/psk_title"
+            style="@style/view_network_textview_psk"
+            android:layout_below="@id/ssid_title"
+            android:layout_centerHorizontal="true"
+            android:text="@string/prefix_psk"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/contents"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/item_horizontal_gap"
+        android:layout_toRightOf="@id/titles">
+
+        <TextView
+            android:id="@+id/ssid_content"
+            style="@style/view_network_textview_ssid"
+            android:text="aaa"/>
+
+        <TextView
+            android:id="@+id/psk_content"
+            style="@style/view_network_textview_psk"
+            android:layout_below="@id/ssid_content"
+            android:text="bbb"/>
+    </RelativeLayout>
+
+    <View
+        style="@style/divider"
+        android:layout_alignParentBottom="true"/>
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WiFi助手</string>
+    
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="prefix_ssid">热点</string>
+    <string name="prefix_psk">密码</string>
+</resources>

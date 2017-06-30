@@ -1,0 +1,366 @@
+﻿ctrl_interface=/data/misc/wifi/sockets
+driver_param=use_p2p_group_interface=1
+update_config=1
+device_name=meizu_mx4
+manufacturer=Meizu
+model_name=MX4
+model_number=MX4
+serial_number=750ABKHJ7596
+device_type=10-0050F204-5
+os_version=01020300
+config_methods=physical_display virtual_push_button
+p2p_no_group_iface=1
+
+network={
+        ssid="sw"
+        scan_ssid=1
+        psk="7#209app"
+        key_mgmt=WPA-PSK
+}
+
+network={
+        ssid="jiang"
+        scan_ssid=1
+        psk="0123456789"
+        key_mgmt=WPA-PSK
+        sim_slot="-1"
+        imsi="none"
+        priority=12
+}
+
+network={
+        ssid="R26"
+        psk="12345678"
+        key_mgmt=WPA-PSK
+        priority=133
+}
+
+network={
+        ssid="hhhhhhhh"
+        psk="wangjianjunshuozhegemimayinggaifuzadian"
+        key_mgmt=WPA-PSK
+        priority=49
+}
+
+network={
+        ssid="ddl8523"
+        psk="88888888"
+        key_mgmt=WPA-PSK
+        priority=22
+}
+
+network={
+        ssid="ddl8421"
+        psk="88888888"
+        key_mgmt=WPA-PSK
+        priority=23
+}
+
+network={
+        ssid="ddl8417"
+        psk="88888888"
+        key_mgmt=WPA-PSK
+        priority=24
+}
+
+network={
+        ssid="laibalaiba"
+        psk="88888888"
+        key_mgmt=WPA-PSK
+        sim_slot="-1"
+        imsi="none"
+        priority=43
+}
+
+network={
+        ssid="A"
+        psk="66666666"
+        key_mgmt=WPA-PSK
+        priority=99
+}
+
+network={
+        ssid="TP-LINK_X-MEN"
+        psk="wangchao0051"
+        key_mgmt=WPA-PSK
+        priority=44
+}
+
+network={
+        ssid="NETGEAR"
+        psk="qazwsx123"
+        key_mgmt=WPA-PSK
+        priority=6939
+}
+
+network={
+        ssid="TP-LINK_232A"
+        psk="12ab34cd56ef"
+        key_mgmt=WPA-PSK
+        priority=4642
+}
+
+network={
+        ssid="dzka"
+        psk="11777884"
+        key_mgmt=WPA-PSK
+        priority=173
+}
+
+network={
+        ssid="Lu Jian Bin Guan APWL"
+        psk="12345678"
+        key_mgmt=WPA-PSK
+        sim_slot="-1"
+        imsi="none"
+        priority=161
+}
+
+network={
+        ssid="1608_internet"
+        psk="sdciqsdciq"
+        key_mgmt=WPA-PSK
+        priority=160
+}
+
+network={
+        ssid="HGBGDD"
+        psk="82652888"
+        key_mgmt=WPA-PSK
+        priority=167
+}
+
+network={
+        ssid="Fun_win"
+        psk="hisense@cqupt123@"
+        key_mgmt=WPA-PSK
+        sim_slot="-1"
+        imsi="none"
+        priority=169
+}
+
+network={
+        ssid="MERCURY_DF40"
+        psk="900417GQ"
+        key_mgmt=WPA-PSK
+        priority=170
+}
+
+network={
+        ssid="TP-LINK_zhg"
+        psk="gongainizhangyou"
+        key_mgmt=WPA-PSK
+        priority=4867
+}
+
+network={
+        ssid="Netcore"
+        key_mgmt=NONE
+        auth_alg=OPEN SHARED
+        wep_key0="netcore"
+        priority=6308
+}
+
+network={
+        ssid="EBT_Produce2"
+        psk="0932079575"
+        key_mgmt=WPA-PSK
+        priority=7287
+}
+
+network={
+        ssid="EBT_Produce"
+        psk="0932079575"
+        key_mgmt=WPA-PSK
+        priority=7240
+}
+
+network={
+        ssid="Carbs"
+        psk="meiyoumima"
+        key_mgmt=WPA-PSK
+        priority=6218
+}
+
+network={
+        ssid="百度烤肉"
+        psk="baidukaorou"
+        key_mgmt=WPA-PSK
+        sim_slot="-1"
+        imsi="none"
+        priority=239
+}
+
+network={
+        ssid="TP-LINK_0592"
+        psk="dh603603"
+        key_mgmt=WPA-PSK
+        priority=241
+}
+
+network={
+        ssid="QDMINISTOP"
+        psk="ministop"
+        key_mgmt=WPA-PSK
+        sim_slot="-1"
+        imsi="none"
+        priority=3519
+}
+
+network={
+        ssid="EBT_Produce1"
+        psk="0932079575"
+        key_mgmt=WPA-PSK
+        priority=7269
+}
+
+network={
+        ssid="S_WiFi"
+        psk="12345678"
+        key_mgmt=WPA-PSK
+        priority=268
+}
+
+network={
+        ssid="Feixun_4EF5E7"
+        psk="forever1007"
+        key_mgmt=WPA-PSK
+        priority=372
+}
+
+network={
+        ssid="大荣美食广场"
+        key_mgmt=NONE
+        priority=4585
+}
+
+network={
+        ssid="@铁路免费-Free-WiFi"
+        key_mgmt=NONE
+        priority=4645
+}
+
+network={
+        ssid="@ffan"
+        key_mgmt=NONE
+        priority=2859
+}
+
+network={
+        ssid="qingsufang"
+        psk="40086045"
+        key_mgmt=WPA-PSK
+        priority=4549
+}
+
+network={
+        ssid="HT-dongjingting"
+        key_mgmt=NONE
+        priority=1459
+}
+
+network={
+        ssid="泰医附院H-WIFI"
+        key_mgmt=NONE
+        priority=3813
+}
+
+network={
+        ssid="and-Business"
+        key_mgmt=NONE
+        priority=7257
+}
+
+network={
+        ssid="Tenda_56B0F8"
+        psk="a6237423b"
+        key_mgmt=WPA-PSK
+        priority=4134
+}
+
+network={
+        ssid="TP-LINK_4C7D48"
+        psk="a6237423b"
+        key_mgmt=WPA-PSK
+        priority=4136
+}
+
+network={
+        ssid="RickZero"
+        psk="00000000"
+        key_mgmt=WPA-PSK
+        priority=6963
+}
+
+network={
+        ssid="TEST"
+        psk="182832Y0"
+        key_mgmt=WPA-PSK
+        priority=7286
+}
+
+network={
+        ssid="MCD-ChinaNet"
+        key_mgmt=NONE
+        priority=4621
+}
+
+network={
+        ssid="987654321"
+        psk="11111111"
+        key_mgmt=WPA-PSK
+        priority=5034
+}
+
+network={
+        ssid="ayin"
+        psk="12345678"
+        key_mgmt=WPA-PSK
+        priority=4760
+}
+
+network={
+        ssid="D-Link_DIR-816L"
+        psk="songlink"
+        key_mgmt=WPA-PSK
+        priority=7265
+}
+
+network={
+        ssid="D-Link_DIR-816L_5GHz"
+        psk="songlink"
+        key_mgmt=WPA-PSK
+        priority=7219
+}
+
+network={
+        ssid="NETGEAR75-5G"
+        psk="qazwsx123"
+        key_mgmt=WPA-PSK
+}
+
+network={
+        ssid="huangmenji"
+        psk="huangmenji"
+        key_mgmt=WPA-PSK
+        priority=6528
+}
+
+network={
+        ssid="youshimiantan"
+        psk="youshimiantan"
+        key_mgmt=WPA-PSK
+        priority=6530
+}
+
+network={
+        ssid="allen"
+        psk="12344321"
+        key_mgmt=WPA-PSK
+        priority=6531
+}
+
+
+
+
+
